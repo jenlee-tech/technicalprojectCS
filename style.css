@@ -14,7 +14,7 @@ header {
 nav {
     display: inline-block;
     text-align: right;
-    margin-top: .5em;
+    margin-top: 0.5em;
 }
 
 nav ul {
@@ -56,12 +56,18 @@ nav .hamburger {
     flex-direction: row;
     flex-wrap: wrap;
     padding-top: 2em;
-    background-color: lightgray;
-    margin-left 0;
+    background-color: #e3e0e0;
+    /* original color: #f5f5f5; */
+    margin-left: 0;
 }
 
 .hero-image img {
-    width: 600px;
+    width: 650px;
+    flex: 1;
+}
+
+.hero-descrip {
+    flex: 1;
 }
 
 @media (max-width: 768px) {
