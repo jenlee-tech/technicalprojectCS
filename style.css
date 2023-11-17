@@ -74,8 +74,13 @@ nav .hamburger {
     padding-left: 2em;
 }
 
+h2 {
+    font-weight: 600;
+}
+
 h3 {
-    font-weight: bold;
+    font-weight: 500;
+    font-size: xx-large;
 }
 
 .tag-line {
@@ -101,7 +106,7 @@ button {
 .feature-banner {
     text-align: center;
     margin-top: 2em;
-    margin-bottom: 5em;
+    margin-bottom: 3em;
 }
 
 .features {
