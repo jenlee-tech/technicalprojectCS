@@ -141,6 +141,7 @@ button {
     /* Rounded corners */
     width: 18rem;
     margin: 2em;
+    padding-top: 1.5em;
 }
 
 .feature-card {
