@@ -140,6 +140,13 @@ button {
     border-radius: 5px;
     /* Rounded corners */
     width: 18rem;
+    margin: 2em;
+}
+
+.card-feature {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .card-body {
