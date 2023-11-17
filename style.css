@@ -1,3 +1,7 @@
+html {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -62,6 +66,7 @@ nav .hamburger {
 
 .hero-image {
     flex: 1;
+    padding-top: 1.5em;
 }
 
 .hero-image img {
@@ -72,6 +77,7 @@ nav .hamburger {
 .hero-descrip {
     flex: 1;
     padding-left: 2em;
+    padding-top: 1em;
 }
 
 h2 {
