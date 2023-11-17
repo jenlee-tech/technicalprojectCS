@@ -79,8 +79,12 @@ h3 {
 }
 
 .tag-line {
-    font-size: xx-large;
-    font-weight: 700;
+    font-size: x-large;
+    font-weight: 600;
+}
+
+.tag-descrip {
+    font-size: larger;
 }
 
 .hero-action {
