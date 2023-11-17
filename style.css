@@ -143,10 +143,11 @@ button {
     margin: 2em;
 }
 
-.card-feature {
+.feature-card {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .card-body {
